@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="OpenflFixer" package="com.sample.openflfixer" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="OpenflFixer" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<assets path="Assets" rename="assets" />
+	<!-- <haxedef name="canvas" /> -->
+</project>
